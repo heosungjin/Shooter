@@ -3107,3 +3107,53 @@ Packages Deleted: 0
 [2017.05.17-20.25.52:806][448]LogBlueprintUserMessages: [HeroBP_C_0] 40.0
 [2017.05.17-20.25.53:389][518]LogBlueprintUserMessages: [HeroBP_C_0] 10.0
 [2017.05.17-20.25.53:523][534]LogBlueprintUserMessages: [HeroBP_C_0] -20.0
+[2017.05.17-20.26.50:256][143]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.17-20.27.01:884][181]LogLinker:Error: IntProperty_185 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset)
+[2017.05.17-20.27.01:886][181]LogLinker:Error: IntProperty_185 has an inappropriate outermost, it was probably saved with a deprecated outer (file: ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset)
+[2017.05.17-20.27.57:455][ 23]BlueprintLog: New page: HUD 컴파일
+[2017.05.17-20.28.01:750][194]LogEditorTransaction: Undo 위젯 제거
+[2017.05.17-20.28.17:136][887]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.17:995][911]LogEditorTransaction: Undo 위젯 제거
+[2017.05.17-20.28.33:514][505]LogEditorTransaction: Undo 위젯 제거
+[2017.05.17-20.28.33:762][514]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.34:078][525]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.34:349][536]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.34:664][549]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.34:990][563]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.35:378][580]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.35:710][594]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.36:070][609]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.36:414][624]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.36:706][636]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.36:987][648]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.37:300][661]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.37:567][672]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.37:990][691]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.38:354][707]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.38:770][725]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.28.53:566][326]LogEditorTransaction: Undo 위젯 이동 (렌더 트랜스폼)
+[2017.05.17-20.29.12:418][981]BlueprintLog: New page: HUD 컴파일
+[2017.05.17-20.29.13:390][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset" SILENT=true
+[2017.05.17-20.29.13:417][  1]LogSavePackage: Save=18.77ms
+[2017.05.17-20.29.13:417][  1]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HUDD32366AC4630944F942C349261D33004.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset'
+[2017.05.17-20.29.13:422][  1]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset
+[2017.05.17-20.30.14:489][560]BlueprintLog: New page: ShooterGameMode 컴파일
+[2017.05.17-20.30.15:094][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShooterGameMode" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/ShooterGameMode.uasset" SILENT=true
+[2017.05.17-20.30.15:114][592]LogSavePackage: Save=11.68ms
+[2017.05.17-20.30.15:114][592]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/ShooterGameModeA1986464491FACE14882D29DFB5448C6.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/ShooterGameMode.uasset'
+[2017.05.17-20.30.15:119][592]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/ShooterGameMode.uasset
+[2017.05.17-20.30.17:899][792]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.30.17:910][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.30.17:910][792]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:30:17)
+[2017.05.17-20.30.17:910][792]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.30.17:913][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002822s)
+[2017.05.17-20.30.17:914][792]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.30.17:914][792]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2017.05.17-20.30.17:914][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003825s)
+[2017.05.17-20.30.17:966][792]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.30.17:987][792]LogInit: FAudioDevice initialized.
+[2017.05.17-20.30.18:020][792]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.30.18:023][792]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.30.18
+[2017.05.17-20.30.18:024][792]LogWorld: Bringing up level for play took: 0.002174
+[2017.05.17-20.30.18:030][792]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: -0.716
+[2017.05.17-20.30.20:349][ 58]LogBlueprintUserMessages: [HeroBP_C_0] 70.0
