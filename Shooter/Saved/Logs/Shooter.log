@@ -3157,3 +3157,176 @@ Packages Deleted: 0
 [2017.05.17-20.30.18:024][792]LogWorld: Bringing up level for play took: 0.002174
 [2017.05.17-20.30.18:030][792]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: -0.716
 [2017.05.17-20.30.20:349][ 58]LogBlueprintUserMessages: [HeroBP_C_0] 70.0
+[2017.05.17-20.31.38:461][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.17-20.31.38:522][898]LogSavePackage: Save=35.06ms
+[2017.05.17-20.31.38:522][898]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/UntitledFE84479648A9A0492A5D788AC0AE9258.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap'
+[2017.05.17-20.31.38:527][898]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap
+[2017.05.17-20.31.38:542][898]LogFileHelpers: Saving map 'Untitled' took 0.280
+[2017.05.17-20.31.38:545][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset" SILENT=true
+[2017.05.17-20.31.38:568][898]LogSavePackage: Save=16.58ms
+[2017.05.17-20.31.38:568][898]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HUDDA93CB4A41423FB90A293BB9F1BAC3D3.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset'
+[2017.05.17-20.31.38:573][898]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset
+[2017.05.17-20.31.39:672][944]BlueprintLog: New page: HUD 컴파일
+[2017.05.17-20.31.40:412][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset" SILENT=true
+[2017.05.17-20.31.40:437][955]LogSavePackage: Save=18.35ms
+[2017.05.17-20.31.40:437][955]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HUDAD1290B64145A3A7434653961219C8E0.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset'
+[2017.05.17-20.31.40:440][955]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset
+[2017.05.17-20.32.06:023][216]LogBlueprint:Warning: [HeroBP] 'HPbar' variable not found. Base class was probably changed.
+[2017.05.17-20.32.42:283][129]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.17-20.32.54:522][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-20.32.54:573][889]LogSavePackage: Save=39.22ms
+[2017.05.17-20.32.54:574][889]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HeroBP7405CF044D2226B3731C4DB284FB8940.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset'
+[2017.05.17-20.32.54:578][889]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset
+[2017.05.17-20.34.00:504][476]BlueprintLog: New page: HUD 컴파일
+[2017.05.17-20.34.00:985][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset" SILENT=true
+[2017.05.17-20.34.01:008][503]LogSavePackage: Save=16.02ms
+[2017.05.17-20.34.01:008][503]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HUDA15B498D4940A32D66F6308FCC42638C.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset'
+[2017.05.17-20.34.01:013][503]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset
+[2017.05.17-20.34.07:963][ 19]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.34.07:975][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.34.07:975][ 19]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:34:07)
+[2017.05.17-20.34.07:976][ 19]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.34.07:979][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003760s)
+[2017.05.17-20.34.07:980][ 19]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.34.07:980][ 19]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2017.05.17-20.34.07:980][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004921s)
+[2017.05.17-20.34.08:034][ 19]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.34.08:050][ 19]LogInit: FAudioDevice initialized.
+[2017.05.17-20.34.08:084][ 19]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.34.08:086][ 19]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.34.08
+[2017.05.17-20.34.08:086][ 19]LogWorld: Bringing up level for play took: 0.001705
+[2017.05.17-20.34.08:090][ 19]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: -0.656
+[2017.05.17-20.34.09:690][206]LogBlueprintUserMessages: [HeroBP_C_0] 70.0
+[2017.05.17-20.34.11:108][374]LogBlueprintUserMessages: [HeroBP_C_0] 40.0
+[2017.05.17-20.34.11:703][445]LogBlueprintUserMessages: [HeroBP_C_0] 10.0
+[2017.05.17-20.34.12:026][483]LogBlueprintUserMessages: [HeroBP_C_0] -20.0
+[2017.05.17-20.36.01:343][220]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.17-20.36.02:309][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-20.36.02:359][221]LogSavePackage: Save=42.02ms
+[2017.05.17-20.36.02:359][221]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HeroBPD3F2045841C4B2D89E33AAB9ED38CE95.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset'
+[2017.05.17-20.36.02:365][221]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset
+[2017.05.17-20.36.02:668][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-20.36.02:709][241]LogSavePackage: Save=34.78ms
+[2017.05.17-20.36.02:709][241]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HeroBP83F0CAA34D4F259DCFD55EBF4DB99EF5.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset'
+[2017.05.17-20.36.02:712][241]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset
+[2017.05.17-20.36.04:784][359]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.36.04:796][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.36.04:797][359]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:36:04)
+[2017.05.17-20.36.04:797][359]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.36.04:801][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003805s)
+[2017.05.17-20.36.04:802][359]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.36.04:802][359]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2017.05.17-20.36.04:802][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.005566s)
+[2017.05.17-20.36.04:878][359]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.36.04:899][359]LogInit: FAudioDevice initialized.
+[2017.05.17-20.36.04:933][359]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.36.04:937][359]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.36.04
+[2017.05.17-20.36.04:937][359]LogWorld: Bringing up level for play took: 0.002853
+[2017.05.17-20.36.04:941][359]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: 0.195
+[2017.05.17-20.36.06:949][581]LogBlueprintUserMessages: [HeroBP_C_0] 70.0
+[2017.05.17-20.36.06:951][581]LogScript:Warning: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0060
+[2017.05.17-20.36.06:952][581]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 이 shooter 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+[2017.05.17-20.36.06:952][581]LogScript:Warning: Accessed None
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0075
+[2017.05.17-20.36.06:952][581]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None
+[2017.05.17-20.36.07:953][699]LogBlueprintUserMessages: [HeroBP_C_0] 40.0
+[2017.05.17-20.36.07:953][699]LogScript:Warning: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0060
+[2017.05.17-20.36.07:953][699]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 이 shooter 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+[2017.05.17-20.36.07:953][699]LogScript:Warning: Accessed None
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0075
+[2017.05.17-20.36.07:953][699]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None
+[2017.05.17-20.36.09:798][919]LogBlueprintUserMessages: [HeroBP_C_0] 10.0
+[2017.05.17-20.36.09:798][919]LogScript:Warning: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0060
+[2017.05.17-20.36.09:798][919]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 이 shooter 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+[2017.05.17-20.36.09:798][919]LogScript:Warning: Accessed None
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0075
+[2017.05.17-20.36.09:798][919]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None
+[2017.05.17-20.36.54:430][449]LogEditorTransaction: Undo 노드 추가
+[2017.05.17-20.37.04:486][131]LogEditorTransaction: Undo 핀 링크 생성
+[2017.05.17-20.37.17:051][105]BlueprintLog: New page: HUD 컴파일
+[2017.05.17-20.37.18:818][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset" SILENT=true
+[2017.05.17-20.37.18:843][184]LogSavePackage: Save=15.84ms
+[2017.05.17-20.37.18:843][184]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HUD3B525D6A4AB67FECA4120FA73DCEE5A0.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset'
+[2017.05.17-20.37.18:849][184]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/UI/HUD.uasset
+[2017.05.17-20.37.22:246][449]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.37.22:260][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.37.22:260][449]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:37:22)
+[2017.05.17-20.37.22:260][449]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.37.22:264][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003851s)
+[2017.05.17-20.37.22:265][449]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.37.22:265][449]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2017.05.17-20.37.22:265][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.005333s)
+[2017.05.17-20.37.22:322][449]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.37.22:346][449]LogInit: FAudioDevice initialized.
+[2017.05.17-20.37.22:378][449]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.37.22:381][449]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.37.22
+[2017.05.17-20.37.22:381][449]LogWorld: Bringing up level for play took: 0.001841
+[2017.05.17-20.37.22:384][449]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: -0.362
+[2017.05.17-20.37.24:111][641]LogBlueprintUserMessages: [HeroBP_C_0] 70.0
+[2017.05.17-20.37.24:111][641]LogScript:Warning: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0060
+[2017.05.17-20.37.24:111][641]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 이 shooter 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+[2017.05.17-20.37.24:111][641]LogScript:Warning: Accessed None
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0075
+[2017.05.17-20.37.24:111][641]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None
+[2017.05.17-20.37.25:255][778]LogBlueprintUserMessages: [HeroBP_C_0] 40.0
+[2017.05.17-20.37.25:255][778]LogScript:Warning: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0060
+[2017.05.17-20.37.25:256][778]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 이 shooter 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+[2017.05.17-20.37.25:256][778]LogScript:Warning: Accessed None
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0075
+[2017.05.17-20.37.25:256][778]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None
+[2017.05.17-20.37.25:381][793]LogBlueprintUserMessages: [HeroBP_C_0] 10.0
+[2017.05.17-20.37.25:381][793]LogScript:Warning: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0060
+[2017.05.17-20.37.25:381][793]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 이 shooter 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+[2017.05.17-20.37.25:381][793]LogScript:Warning: Accessed None
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0075
+[2017.05.17-20.37.25:381][793]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None
+[2017.05.17-20.37.25:927][858]LogBlueprintUserMessages: [HeroBP_C_0] -20.0
+[2017.05.17-20.37.25:927][858]LogScript:Warning: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0060
+[2017.05.17-20.37.25:927][858]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 이 shooter 프로퍼티를 읽으려 합니다. 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None 이 shooter 프로퍼티를 읽으려 합니다.
+[2017.05.17-20.37.25:927][858]LogScript:Warning: Accessed None
+	HeroBP_C /Game/UEDPIE_0_Untitled.Untitled:PersistentLevel.HeroBP_C_0
+	Function /Game/Hero/HeroBP.HeroBP_C:ExecuteUbergraph_HeroBP:0075
+[2017.05.17-20.37.25:927][858]PIE:Error: 오류 블루프린트 런타임 오류: Accessed None 다음 함수에서: 'ExecuteUbergraph_HeroBP' 노드: Update Hero HP 그래프: EventGraph 오브젝트: HeroBP 설명: Accessed None
+[2017.05.17-20.38.43:565][579]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.17-20.38.44:943][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-20.38.44:997][615]LogSavePackage: Save=44.12ms
+[2017.05.17-20.38.44:997][615]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HeroBP4B0EEAC5497D950E924CAFAD25D36220.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset'
+[2017.05.17-20.38.45:003][615]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset
+[2017.05.17-20.38.50:755][988]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.38.50:764][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.38.50:764][988]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:38:50)
+[2017.05.17-20.38.50:764][988]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.38.50:767][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002985s)
+[2017.05.17-20.38.50:768][988]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.38.50:768][988]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2017.05.17-20.38.50:768][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.004040s)
+[2017.05.17-20.38.50:821][988]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.38.50:837][988]LogInit: FAudioDevice initialized.
+[2017.05.17-20.38.50:867][988]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.38.50:870][988]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.38.50
+[2017.05.17-20.38.50:870][988]LogWorld: Bringing up level for play took: 0.002148
+[2017.05.17-20.38.50:875][988]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: 0.13
+[2017.05.17-20.38.52:474][175]LogBlueprintUserMessages: [HeroBP_C_0] 70.0
+[2017.05.17-20.38.52:477][175]LogBlueprintUserMessages: [HUD_C_4] 0.7
+[2017.05.17-20.38.52:769][210]LogBlueprintUserMessages: [HeroBP_C_0] 40.0
+[2017.05.17-20.38.52:770][210]LogBlueprintUserMessages: [HUD_C_4] 0.4
