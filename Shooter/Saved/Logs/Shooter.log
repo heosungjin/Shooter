@@ -345,3 +345,78 @@ Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Local
 [2017.05.17-19.32.41:529][839]LogWorld: Bringing up level for play took: 0.001285
 [2017.05.17-19.32.41:636][839]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
 [2017.05.17-19.32.41:637][839]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: 0.892
+[2017.05.17-19.33.21:599][514]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.05.17-19.33.21:741][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.17-19.33.21:787][514]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.05.17-19.34.17:426][898]Cmd: TRANSACTION UNDO
+[2017.05.17-19.34.17:426][898]LogEditorTransaction: Undo Name 편집
+[2017.05.17-19.34.17:433][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.17-19.34.17:734][912]Cmd: TRANSACTION UNDO
+[2017.05.17-19.34.17:734][912]LogEditorTransaction: Undo 블렌드 그리드 샘플 추가
+[2017.05.17-19.34.17:736][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.17-19.34.18:262][940]Cmd: TRANSACTION UNDO
+[2017.05.17-19.34.18:262][940]LogEditorTransaction: Undo 블렌드 그리드 샘플 추가
+[2017.05.17-19.34.18:265][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.05.17-19.35.45:938][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Loco" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/Loco.uasset" SILENT=true
+[2017.05.17-19.35.45:952][225]LogSavePackage: Save=12.39ms
+[2017.05.17-19.35.45:952][225]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/Loco1D32CDDA49BC5AF938DF5FAA1DAE636F.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/Loco.uasset'
+[2017.05.17-19.35.45:960][225]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/Loco.uasset
+[2017.05.17-19.36.13:211][718]LogMetaData: Removing '/Game/Hero/LocoAnimationBP.LocoAnimationBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Hero/LocoBP.PackageMetaData'
+[2017.05.17-19.36.13:211][718]LogMetaData: Removing '/Game/Hero/LocoAnimationBP.SKEL_LocoAnimationBP_C' ref from Metadata '/Game/Hero/LocoBP.PackageMetaData'
+[2017.05.17-19.36.13:211][718]LogMetaData: Removing '/Game/Hero/LocoAnimationBP.LocoAnimationBP_C' ref from Metadata '/Game/Hero/LocoBP.PackageMetaData'
+[2017.05.17-19.36.13:211][718]LogMetaData: Removing '/Game/Hero/LocoAnimationBP.LocoAnimationBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Hero/LocoBP.PackageMetaData'
+[2017.05.17-19.36.13:247][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/LocoAnimationBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset" SILENT=true
+[2017.05.17-19.36.13:262][718]LogSavePackage: Save=12.97ms
+[2017.05.17-19.36.13:262][718]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/LocoAnimationBPFE85BE2049BA3164083FD782155D5265.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset'
+[2017.05.17-19.36.13:268][718]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset
+[2017.05.17-19.36.15:120][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.05.17-19.36.15:357][799]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.05.17-19.36.38:005][205]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.05.17-19.36.38:037][205]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.05.17-19.36.43:580][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/Loco" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/Loco.uasset" SILENT=true
+[2017.05.17-19.36.43:599][529]LogSavePackage: Save=12.57ms
+[2017.05.17-19.36.43:599][529]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/LocoD5E9AF154498ED6361EF64978BBC2E74.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/Loco.uasset'
+[2017.05.17-19.36.43:605][529]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/Loco.uasset
+[2017.05.17-19.36.43:614][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/LocoBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoBP.uasset" SILENT=true
+[2017.05.17-19.36.43:617][529]LogSavePackage: Save=1.51ms
+[2017.05.17-19.36.43:617][529]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/LocoBPD34289994885EB9ACEFAD5AF54BE0E75.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoBP.uasset'
+[2017.05.17-19.36.43:622][529]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoBP.uasset
+[2017.05.17-19.36.43:649][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/LocoAnimationBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset" SILENT=true
+[2017.05.17-19.36.43:670][529]LogSavePackage: Save=15.90ms
+[2017.05.17-19.36.43:670][529]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/LocoAnimationBP7C3DE4A44A7F92118A086CBF2DA4EF9E.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset'
+[2017.05.17-19.36.43:674][529]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset
+[2017.05.17-19.36.50:066][845]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.17-19.36.52:901][  4]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.17-19.36.53:500][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-19.36.53:533][ 23]LogSavePackage: Save=27.85ms
+[2017.05.17-19.36.53:533][ 23]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HeroBPE12F04824E61AD71A23EF7B590974ECB.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset'
+[2017.05.17-19.36.53:538][ 23]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset
+[2017.05.17-19.36.55:245][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.05.17-19.36.55:473][104]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.05.17-19.36.56:713][167]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2017.05.17-19.36.56:745][167]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2017.05.17-19.37.00:134][346]BlueprintLog: New page: LocoAnimationBP 컴파일
+[2017.05.17-19.38.23:302][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/LocoAnimationBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset" SILENT=true
+[2017.05.17-19.38.23:324][878]LogSavePackage: Save=19.16ms
+[2017.05.17-19.38.23:324][878]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/LocoAnimationBPC1C4F13A4E36FEA189185AB78F878B41.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset'
+[2017.05.17-19.38.23:330][878]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset
+[2017.05.17-19.38.24:321][935]BlueprintLog: New page: LocoAnimationBP 컴파일
+[2017.05.17-19.39.08:327][514]BlueprintLog: New page: LocoAnimationBP 컴파일
+[2017.05.17-19.39.08:871][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/LocoAnimationBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset" SILENT=true
+[2017.05.17-19.39.08:895][538]LogSavePackage: Save=21.19ms
+[2017.05.17-19.39.08:895][538]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/LocoAnimationBP544694EA4F014BD342885EA898B5FDD0.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset'
+[2017.05.17-19.39.08:900][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/LocoAnimationBP.uasset
+[2017.05.17-19.39.11:003][695]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-19.39.11:010][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-19.39.11:011][695]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 1:39:11)
+[2017.05.17-19.39.11:011][695]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-19.39.11:013][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002304s)
+[2017.05.17-19.39.11:014][695]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-19.39.11:014][695]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2017.05.17-19.39.11:015][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003693s)
+[2017.05.17-19.39.11:083][695]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-19.39.11:104][695]LogInit: FAudioDevice initialized.
+[2017.05.17-19.39.11:138][695]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-19.39.11:140][695]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-04.39.11
+[2017.05.17-19.39.11:140][695]LogWorld: Bringing up level for play took: 0.001166
+[2017.05.17-19.39.11:142][695]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: 0.396
