@@ -427,3 +427,257 @@ Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Local
 [2017.05.17-19.54.48:019][377]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.18-04.54.48
 [2017.05.17-19.54.48:019][377]LogWorld: Bringing up level for play took: 0.000907
 [2017.05.17-19.54.48:021][377]PIE: 정보 /Temp/UEDPIE_0_Untitled_1 에 대한 에디터에서 플레이 시작 시간: -0.724
+[2017.05.17-19.56.11:415][194]BlueprintLog: New page: HeroBP 컴파일
+[2017.05.17-19.56.13:306][358]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-19.56.13:315][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-19.56.13:315][358]PIE: New page: PIE 세션: Untitled_1 (2017. 5. 18. 오후 1:56:13)
+[2017.05.17-19.56.13:315][358]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.05.17-19.56.13:317][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001779s)
+[2017.05.17-19.56.13:318][358]LogAIModule: Creating AISystem for world Untitled_1
+[2017.05.17-19.56.13:318][358]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2017.05.17-19.56.13:319][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003265s)
+[2017.05.17-19.56.13:375][358]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-19.56.13:391][358]LogInit: FAudioDevice initialized.
+[2017.05.17-19.56.13:427][358]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-19.56.13:429][358]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.05.18-04.56.13
+[2017.05.17-19.56.13:429][358]LogWorld: Bringing up level for play took: 0.001012
+[2017.05.17-19.56.13:431][358]PIE: 정보 /Temp/UEDPIE_0_Untitled_1 에 대한 에디터에서 플레이 시작 시간: 0.686
+[2017.05.17-19.57.28:760][415]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.17-19.57.43:146][926]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.17-19.57.43:576][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-19.57.43:600][929]LogSavePackage: Save=21.54ms
+[2017.05.17-19.57.43:600][929]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/EnemyBP717E704F43546FBE4C88DA975C635B5D.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-19.57.43:604][929]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset
+[2017.05.17-19.58.12:840][102]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.17-19.58.13:221][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-19.58.13:248][103]LogSavePackage: Save=20.73ms
+[2017.05.17-19.58.13:248][103]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/EnemyBP08B032514E1A221F2A75A2B3BBEF1D78.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-19.58.13:253][103]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset
+[2017.05.17-19.58.17:280][293]LogRenderer: Reallocating scene render targets to support 1392x924 NumSamples 1 (Frame:55847).
+[2017.05.17-19.58.25:552][154]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.17-19.58.25:654][154]TextureStreamingBuild:Display: Compiling optional shaders took 0.000 seconds.
+[2017.05.17-19.58.28:650][216]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'CharacterMesh0' or package '/Engine/Transient'.
+[2017.05.17-19.58.28:650][216]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'CharacterMesh0' or package '/Engine/Transient'.
+[2017.05.17-19.58.28:651][216]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'CharacterMesh0' or package '/Engine/Transient'.
+[2017.05.17-19.58.28:651][216]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'CharacterMesh0' or package '/Engine/Transient'.
+[2017.05.17-19.58.41:405][805]LogMaterial:Warning: Material /Game/Gun/BulletMaterial.BulletMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2017.05.17-19.58.41:407][805]LogMaterial: Missing cached shader map for material BulletMaterial, compiling. 
+[2017.05.17-19.58.41:408][805]LogTemp:Display: Added material ShaderMap 0x000001EAE2A2A080 with Material 0x000001EAADD4B880 to ShaderMapsBeingCompiled
+[2017.05.17-19.58.41:430][805]LogTemp:Display: Kicking off shader compilation for BulletMaterial, GameThreadShaderMap 0x000001EAE2A2A080
+[2017.05.17-19.58.41:435][805]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.17-19.58.48:589][ 71]LogTemp:Display: Finished compile of shader map 0x000001EAE2A2A080
+[2017.05.17-19.58.48:589][ 71]LogTemp:Display: Shader map BulletMaterial complete, GameThreadShaderMap 0x000001EAE2A2A080, marking material BulletMaterial as finished
+[2017.05.17-19.58.48:589][ 71]LogTemp:Display: Marking material as finished 0x000001EAADD4B880
+[2017.05.17-19.59.10:004][323]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.05.17-19.59.18:993][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/NewMaterialInstanceConstant2" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/NewMaterialInstanceConstant2.uasset" SILENT=true
+[2017.05.17-19.59.19:015][ 73]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterialInstanceConstant2, compiling. 
+[2017.05.17-19.59.19:020][ 73]LogTemp:Display: Added material ShaderMap 0x000001EB46BD7C80 with Material 0x000001EB424A2500 to ShaderMapsBeingCompiled
+[2017.05.17-19.59.19:540][ 73]LogTemp:Display: Finished compile of shader map 0x000001EB46BD7C80
+[2017.05.17-19.59.19:540][ 73]LogTemp:Display: Shader map FDebugViewModeMaterialProxy NewMaterialInstanceConstant2 complete, GameThreadShaderMap 0x000001EB46BD7C80, marking material FDebugViewModeMaterialProxy NewMaterialInstanceConstant2 as finished
+[2017.05.17-19.59.19:540][ 73]LogTemp:Display: Marking material as finished 0x000001EB424A2500
+[2017.05.17-19.59.19:543][ 73]TextureStreamingBuild:Display: Compiling optional shaders took 0.533 seconds.
+[2017.05.17-19.59.19:575][ 73]LogSavePackage: Save=12.79ms
+[2017.05.17-19.59.19:575][ 73]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/NewMaterialInstanceConstant293A650684CE7CAC5DD0CEE89556D6B98.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/NewMaterialInstanceConstant2.uasset'
+[2017.05.17-19.59.19:579][ 73]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/NewMaterialInstanceConstant2.uasset
+[2017.05.17-19.59.41:113][716]LogAIModule: Creating AISystem for world LocoLevel
+[2017.05.17-19.59.42:651][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-19.59.42:679][716]LogSavePackage: Save=22.15ms
+[2017.05.17-19.59.42:679][716]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/EnemyBP4079C67E4426B4AA65B9FB8650FB78CB.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-19.59.42:684][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset
+[2017.05.17-19.59.42:700][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletMaterial" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletMaterial.uasset" SILENT=true
+[2017.05.17-19.59.42:716][716]LogSavePackage: Save=10.39ms
+[2017.05.17-19.59.42:716][716]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/BulletMaterial687E8217477C4B6CABD7DEADAA1FC549.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletMaterial.uasset'
+[2017.05.17-19.59.42:721][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletMaterial.uasset
+[2017.05.17-19.59.42:736][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/GunBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/GunBP.uasset" SILENT=true
+[2017.05.17-19.59.42:764][716]LogSavePackage: Save=22.36ms
+[2017.05.17-19.59.42:764][716]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/GunBPC4766B654D05DE6ED20277BAB28F9A4F.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/GunBP.uasset'
+[2017.05.17-19.59.42:769][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/GunBP.uasset
+[2017.05.17-19.59.42:783][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hero/HeroBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset" SILENT=true
+[2017.05.17-19.59.42:823][716]LogSavePackage: Save=33.21ms
+[2017.05.17-19.59.42:823][716]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/HeroBP6B4B93D64DC6A7EC0CB5D281BE5F5620.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset'
+[2017.05.17-19.59.42:828][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Hero/HeroBP.uasset
+[2017.05.17-19.59.42:843][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterialInstanceConstant" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/NewMaterialInstanceConstant.uasset" SILENT=true
+[2017.05.17-19.59.42:858][716]LogSavePackage: Save=12.28ms
+[2017.05.17-19.59.42:858][716]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/NewMaterialInstanceConstant07B860464736059672C411BA6F332AFF.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/NewMaterialInstanceConstant.uasset'
+[2017.05.17-19.59.42:862][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/NewMaterialInstanceConstant.uasset
+[2017.05.17-19.59.42:864][716]Cmd: MAP LOAD FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/LocoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.05.17-19.59.42:864][716]LightingResults: New page: 라이팅 빌드
+[2017.05.17-19.59.42:866][716]LoadErrors: New page: 맵 로드중: LocoLevel.umap
+[2017.05.17-19.59.42:867][716]MapCheck: New page: 맵 체크
+[2017.05.17-19.59.42:867][716]LightingResults: New page: 라이팅 빌드
+[2017.05.17-19.59.42:884][716]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.05.17-19.59.42:900][716]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.05.17-19.59.43:113][716]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 212.4ms.
+[2017.05.17-19.59.43:121][716]LogFileHelpers: Loading map 'LocoLevel' took 0.258
+[2017.05.17-19.59.44:728][837]Cmd: MAP LOAD FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/LocoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.05.17-19.59.44:728][837]LightingResults: New page: 라이팅 빌드
+[2017.05.17-19.59.44:730][837]LoadErrors: New page: 맵 로드중: LocoLevel.umap
+[2017.05.17-19.59.44:731][837]MapCheck: New page: 맵 체크
+[2017.05.17-19.59.44:731][837]LightingResults: New page: 라이팅 빌드
+[2017.05.17-19.59.44:747][837]LogAIModule: Creating AISystem for world LocoLevel
+[2017.05.17-19.59.44:749][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.05.17-19.59.44:782][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.05.17-19.59.44:964][837]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 182.163ms.
+[2017.05.17-19.59.44:964][837]LogFileHelpers: Loading map 'LocoLevel' took 0.238
+[2017.05.17-19.59.45:725][890]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-19.59.45:742][890]Cmd: MAP LOAD FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.05.17-19.59.45:742][890]LightingResults: New page: 라이팅 빌드
+[2017.05.17-19.59.45:744][890]LoadErrors: New page: 맵 로드중: Untitled.umap
+[2017.05.17-19.59.45:745][890]MapCheck: New page: 맵 체크
+[2017.05.17-19.59.45:745][890]LightingResults: New page: 라이팅 빌드
+[2017.05.17-19.59.45:762][890]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.05.17-19.59.45:874][890]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.05.17-19.59.46:067][890]MapCheck: 정보 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 192.672ms.
+[2017.05.17-19.59.46:068][890]LogFileHelpers: Loading map 'Untitled' took 0.327
+[2017.05.17-19.59.48:575][130]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-19.59.48:585][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-19.59.48:585][130]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 1:59:48)
+[2017.05.17-19.59.48:585][130]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-19.59.48:588][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002641s)
+[2017.05.17-19.59.48:588][130]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-19.59.48:589][130]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2017.05.17-19.59.48:589][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003649s)
+[2017.05.17-19.59.48:640][130]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-19.59.48:655][130]LogInit: FAudioDevice initialized.
+[2017.05.17-19.59.48:690][130]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-19.59.48:692][130]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-04.59.48
+[2017.05.17-19.59.48:692][130]LogWorld: Bringing up level for play took: 0.000868
+[2017.05.17-19.59.48:694][130]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: -0.052
+[2017.05.17-20.00.00:688][385]LogWindows: LaunchURL http://docs.unrealengine.com/latest/KOR/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2017.05.17-20.00.19:014][365]LogMetaData: Removing '/Game/DamageInterface.SKEL_DamageInterface_C' ref from Metadata '/Game/NewInterface.PackageMetaData'
+[2017.05.17-20.00.19:014][365]LogMetaData: Removing '/Game/DamageInterface.DamageInterface_C' ref from Metadata '/Game/NewInterface.PackageMetaData'
+[2017.05.17-20.00.19:030][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DamageInterface" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/DamageInterface.uasset" SILENT=true
+[2017.05.17-20.00.19:035][365]LogSavePackage: Save=2.98ms
+[2017.05.17-20.00.19:035][365]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/DamageInterface86BB8ABA42E4501AD4726695D80465CA.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/DamageInterface.uasset'
+[2017.05.17-20.00.19:039][365]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/DamageInterface.uasset
+[2017.05.17-20.00.37:114][218]LogSlate: Took 0.001800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.05.17-20.00.44:454][  1]BlueprintLog: New page: DamageInterface 컴파일
+[2017.05.17-20.00.44:889][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DamageInterface" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/DamageInterface.uasset" SILENT=true
+[2017.05.17-20.00.44:898][ 38]LogSavePackage: Save=3.17ms
+[2017.05.17-20.00.44:898][ 38]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/DamageInterfaceC977D83E496491494857D994BB6C2E69.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/DamageInterface.uasset'
+[2017.05.17-20.00.44:902][ 38]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/DamageInterface.uasset
+[2017.05.17-20.01.08:998][616]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.17-20.01.27:870][276]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.17-20.01.35:100][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-20.01.35:127][878]LogSavePackage: Save=21.95ms
+[2017.05.17-20.01.35:127][878]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/EnemyBP60A67FB84BDB4C7571C314B3DDCF86CB.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-20.01.35:132][878]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset
+[2017.05.17-20.01.35:135][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewInterface" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/NewInterface.uasset" SILENT=true
+[2017.05.17-20.01.35:138][878]LogSavePackage: Save=1.73ms
+[2017.05.17-20.01.35:138][878]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/NewInterface35E199B44976B440977B43AE4B5A26E3.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/NewInterface.uasset'
+[2017.05.17-20.01.35:143][878]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/NewInterface.uasset
+[2017.05.17-20.01.35:832][931]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.17-20.02.49:140][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-20.02.49:171][478]LogSavePackage: Save=26.26ms
+[2017.05.17-20.02.49:171][478]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/EnemyBP441951AC497F27859996B49EAB995079.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-20.02.49:176][478]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset
+[2017.05.17-20.03.13:962][818]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.17-20.03.14:394][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-20.03.14:427][842]LogSavePackage: Save=27.29ms
+[2017.05.17-20.03.14:427][842]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/EnemyBP076EE1784849B7963499DC9C734BBF2D.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-20.03.14:432][842]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset
+[2017.05.17-20.03.30:299][  8]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.17-20.03.30:759][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.17-20.03.30:785][ 12]LogSavePackage: Save=18.74ms
+[2017.05.17-20.03.30:785][ 12]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/BulletBP15C2FF344AF80B92AEA96DA61D0097DA.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset'
+[2017.05.17-20.03.30:790][ 12]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset
+[2017.05.17-20.03.50:404][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.17-20.03.50:428][573]LogSavePackage: Save=18.75ms
+[2017.05.17-20.03.50:428][573]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/BulletBPA50404064BD8BDEF4E408C98B90D52AD.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset'
+[2017.05.17-20.03.50:432][573]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset
+[2017.05.17-20.03.56:151][936]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.17-20.03.56:586][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.17-20.03.56:607][949]LogSavePackage: Save=16.95ms
+[2017.05.17-20.03.56:607][949]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/BulletBP1C9EB2F74B1519D78915BCAC666C776E.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset'
+[2017.05.17-20.03.56:612][949]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset
+[2017.05.17-20.04.17:500][673]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.17-20.05.01:322][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.17-20.05.01:347][886]LogSavePackage: Save=20.14ms
+[2017.05.17-20.05.01:347][886]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/BulletBP37FEE4054FFA967830C5F798A68AAB0D.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset'
+[2017.05.17-20.05.01:352][886]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset
+[2017.05.17-20.05.14:876][134]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.17-20.05.18:189][440]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.05.18:198][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.05.18:199][440]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:05:18)
+[2017.05.17-20.05.18:199][440]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.05.18:201][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002205s)
+[2017.05.17-20.05.18:202][440]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.05.18:202][440]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2017.05.17-20.05.18:202][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003733s)
+[2017.05.17-20.05.18:254][440]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.05.18:271][440]LogInit: FAudioDevice initialized.
+[2017.05.17-20.05.18:305][440]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.05.18:307][440]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.05.18
+[2017.05.17-20.05.18:307][440]LogWorld: Bringing up level for play took: 0.001252
+[2017.05.17-20.05.18:309][440]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: -0.436
+[2017.05.17-20.05.23:674][882]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.05.23:683][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.05.23:683][882]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:05:23)
+[2017.05.17-20.05.23:683][882]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.05.23:686][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002483s)
+[2017.05.17-20.05.23:687][882]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.05.23:687][882]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2017.05.17-20.05.23:687][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003660s)
+[2017.05.17-20.05.23:738][882]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.05.23:753][882]LogInit: FAudioDevice initialized.
+[2017.05.17-20.05.23:785][882]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.05.23:787][882]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.05.23
+[2017.05.17-20.05.23:788][882]LogWorld: Bringing up level for play took: 0.002402
+[2017.05.17-20.05.23:790][882]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: 1.044
+[2017.05.17-20.05.40:551][ 44]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.05.40:560][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.05.40:560][ 44]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:05:40)
+[2017.05.17-20.05.40:560][ 44]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.05.40:562][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001471s)
+[2017.05.17-20.05.40:562][ 44]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.05.40:563][ 44]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2017.05.17-20.05.40:563][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.002616s)
+[2017.05.17-20.05.40:612][ 44]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.05.40:628][ 44]LogInit: FAudioDevice initialized.
+[2017.05.17-20.05.40:660][ 44]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.05.40:662][ 44]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.05.40
+[2017.05.17-20.05.40:662][ 44]LogWorld: Bringing up level for play took: 0.001232
+[2017.05.17-20.05.40:664][ 44]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: -0.082
+[2017.05.17-20.06.08:491][ 71]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.17-20.06.12:419][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.17-20.06.12:479][269]LogSavePackage: Save=36.05ms
+[2017.05.17-20.06.12:479][269]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/UntitledC3F8ECE54C2535453B3E519FFFAF6761.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap'
+[2017.05.17-20.06.12:485][269]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap
+[2017.05.17-20.06.12:501][269]LogFileHelpers: Saving map 'Untitled' took 0.266
+[2017.05.17-20.06.12:523][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.17-20.06.12:549][269]LogSavePackage: Save=21.07ms
+[2017.05.17-20.06.12:549][269]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/BulletBPC12DE0B941F62456B9B998A29CC77C0E.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset'
+[2017.05.17-20.06.12:554][269]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset
+[2017.05.17-20.06.12:575][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-20.06.12:607][269]LogSavePackage: Save=26.80ms
+[2017.05.17-20.06.12:607][269]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/EnemyBP3F0D5AD64DFC6B880FA1299FF0F6836C.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-20.06.12:613][269]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset
+[2017.05.17-20.06.16:771][498]BlueprintLog: New page: EnemyBP 컴파일
+[2017.05.17-20.06.17:552][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/EnemyBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset" SILENT=true
+[2017.05.17-20.06.17:581][524]LogSavePackage: Save=25.21ms
+[2017.05.17-20.06.17:581][524]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/EnemyBPB125C30E4F621691E344DFAC7325DE3C.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset'
+[2017.05.17-20.06.17:586][524]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Enemy/EnemyBP.uasset
+[2017.05.17-20.06.41:631][998]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.17-20.06.42:450][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.17-20.06.42:477][ 31]LogSavePackage: Save=21.97ms
+[2017.05.17-20.06.42:477][ 31]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/BulletBPA2B616DE4AEFB20559CC5990B43B4FAA.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset'
+[2017.05.17-20.06.42:481][ 31]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset
+[2017.05.17-20.06.43:880][129]LogTemp: Repeting last play command: 선택된 뷰포트
+[2017.05.17-20.06.43:888][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.17-20.06.43:888][129]PIE: New page: PIE 세션: Untitled (2017. 5. 18. 오후 2:06:43)
+[2017.05.17-20.06.43:888][129]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.05.17-20.06.43:890][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001956s)
+[2017.05.17-20.06.43:891][129]LogAIModule: Creating AISystem for world Untitled
+[2017.05.17-20.06.43:891][129]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2017.05.17-20.06.43:892][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003689s)
+[2017.05.17-20.06.43:945][129]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.17-20.06.43:960][129]LogInit: FAudioDevice initialized.
+[2017.05.17-20.06.43:997][129]LogLoad: Game class is 'ShooterGameMode_C'
+[2017.05.17-20.06.43:999][129]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.05.18-05.06.43
+[2017.05.17-20.06.44:000][129]LogWorld: Bringing up level for play took: 0.001498
+[2017.05.17-20.06.44:002][129]PIE: 정보 /Game/UEDPIE_0_Untitled 에 대한 에디터에서 플레이 시작 시간: -0.744
+[2017.05.17-20.06.55:357][ 84]BlueprintLog: New page: BulletBP 컴파일
+[2017.05.17-20.06.55:775][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gun/BulletBP" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset" SILENT=true
+[2017.05.17-20.06.55:800][ 95]LogSavePackage: Save=20.35ms
+[2017.05.17-20.06.55:800][ 95]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/BulletBP9832AE8542B66C372C4D10AE75CEA905.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset'
+[2017.05.17-20.06.55:806][ 95]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Gun/BulletBP.uasset
