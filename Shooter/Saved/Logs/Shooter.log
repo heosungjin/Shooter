@@ -3330,3 +3330,23 @@ Packages Deleted: 0
 [2017.05.17-20.38.52:477][175]LogBlueprintUserMessages: [HUD_C_4] 0.7
 [2017.05.17-20.38.52:769][210]LogBlueprintUserMessages: [HeroBP_C_0] 40.0
 [2017.05.17-20.38.52:770][210]LogBlueprintUserMessages: [HUD_C_4] 0.4
+[2017.05.17-20.39.33:070][671]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.05.17-20.39.42:619][679]LogEditorViewport: Clicking on Actor (LMB): EnemyBP_C (EnemyBP)
+[2017.05.17-20.39.44:084][769]Cmd: DELETE
+[2017.05.17-20.39.44:084][769]Cmd: ACTOR DELETE
+[2017.05.17-20.39.44:087][769]LogEditorActor: Deleted Actor: EnemyBP_C
+[2017.05.17-20.39.44:104][769]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.05.17-20.39.48:512][193]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.05.17-20.40.09:051][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.05.17-20.40.41:796][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.17-20.40.41:863][891]LogSavePackage: Save=40.64ms
+[2017.05.17-20.40.41:863][891]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/Untitled00F3C6A447CA56E860E7C0B5FED0AACB.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap'
+[2017.05.17-20.40.41:867][891]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap
+[2017.05.17-20.40.42:473][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.05.17-20.41.01:693][ 86]Cmd: EDIT PASTE
+[2017.05.17-20.41.15:047][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.05.17-20.41.19:775][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.17-20.41.19:829][912]LogSavePackage: Save=33.02ms
+[2017.05.17-20.41.19:829][912]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/UntitledBFAFD42643A3497DFE894C90D6644B48.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap'
+[2017.05.17-20.41.19:834][912]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/Untitled.umap
+[2017.05.17-20.41.19:848][912]LogFileHelpers: Saving map 'Untitled' took 0.266
