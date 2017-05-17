@@ -267,3 +267,10 @@ Localization Resource: (C:/Program Files/Epic Games/UE_4.15/Engine/Content/Local
 [2017.05.17-19.25.45:809][  1]LogAssetRegistry: Asset discovery search completed in 19.8282 seconds
 [2017.05.17-19.25.45:809][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
 [2017.05.17-19.25.45:809][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000024 seconds (updated 0 objects)
+[2017.05.17-19.26.01:761][602]LogSlate: Took 0.000519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.05.17-19.26.06:938][ 54]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.05.17-19.26.07:092][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LocoLevel" FILE="../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/LocoLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.05.17-19.26.07:112][ 54]LogSavePackage: Save=9.90ms
+[2017.05.17-19.26.07:112][ 54]LogSavePackage: Moving '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Saved/LocoLevelB8939E41401FDF7400585D8EFDE6AA80.tmp' to '../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/LocoLevel.umap'
+[2017.05.17-19.26.07:116][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/aiuv0/Desktop/Shooter/Shooter/Content/LocoLevel.umap
+[2017.05.17-19.26.07:117][ 54]LogFileHelpers: Saving map 'LocoLevel' took 0.166
